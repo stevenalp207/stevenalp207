@@ -1,35 +1,73 @@
-# ¡Hola! 👋 Soy Steven.
+# Steven Alpizar Gamboa - Industrial Electronics Technician
 
-## Acerca de mí
+## 👋 About Me
 
-Soy un estudiante de undécimo año en el Colegio Técnico Profesional CEDES Don Bosco, donde me especializo en electrónica industrial. Además de mis estudios, tengo experiencia en programación y redes, lo cual complementa mi formación técnica.
+I'm a trained Industrial Electronics Technician with expertise in industrial systems, automation, and programming. My passion lies at the intersection of hardware and software, where I develop innovative solutions using microcontrollers, PLCs, and machine learning.
 
-Actualmente, formo parte activa de la banda de mi colegio, desempeñándome como percusionista. La música es una de mis pasiones, y la participación en la banda me brinda la oportunidad de expresarme creativamente y trabajar en equipo.
+## 🔭 Current Focus
 
-## Educación
+- Active participant in the **Robotics Club - STEAM Program** (since Feb 2025)
+- Competing in agricultural robotics competitions
+- Preparing for the World Robot Olympiad (WRO)
 
-- Estudiante de undécimo año en CEDES Don Bosco
-- Especialización en Electrónica Industrial
+## 🛠️ Skills & Technologies
 
-## Experiencia Técnica
+### Technical Skills
+- **Industrial Automation**: PLCs, sensor integration, electrical schematics
+- **Programming**: Microcontrollers (Arduino), Python (Machine Learning)
+- **Robotics**: Design, programming, and competition experience
+- **3D Design**: Fusion 360, AutoCAD
+- **Simulation**: LabVIEW, Multisim, CADE SIMU
 
-- Cursos de programación (PYTHON)
-- Cursos de redes (CCNA 1)
+### Software
+- Arduino IDE, PyCharm, VS Code
+- Fusion 360, AutoCAD
+- LabVIEW, Multisim
 
-## Proyectos Destacados
+### Soft Skills
+- Teamwork & Leadership
+- Problem-solving & Critical Thinking
+- Results-oriented approach
 
-- LESCOT pretende buscar una solución a las brechas de comunicación presentes entre personas sordas y oyentes, mediante la adaptabilidad de un “traductor” de LESCO utilizando el lenguaje de programación Python junto a un sistema combinado de vision artificial, facilitando las interacciones entre personas sordas y oyentes, además de apoyar la Ley No. 9822 y Ley No. 9049. Aptitudes: Python · PyTorch · PyCharm · Trabajo en equipo
-  
-## Habilidades
+## Projects
 
-- Electrónica Industrial
-- Programación en Python, C++, HTML y CSS
-- Redes
-- Percusión musical
+### LESCO Sign Recognition System (2023-2024)
+- Developing a system to recognize LESCO (Costa Rican Sign Language) gestures using machine learning in Python
+- Designed a glove with accelerometers to interpret gestures
 
-## Contacto
+### Robotics Projects
+- Agricultural robotics competition participant (FarmTech)
+- World Robot Olympiad (WRO) national stage competitor
 
-- https://www.linkedin.com/in/steven-alexander-alp%C3%ADzar-gamboa-8b659929a/
-- s.alpizar207@gmail.com
+## 🎓 Education
 
-¡Gracias por visitar mi perfil! Si tienes alguna pregunta o sugerencia, no dudes en contactarme. 😊
+**CTP Don Bosco**  
+- Associate's Degree in Industrial Electronics (2023-Present)  
+- High School Diploma  
+
+## 📜 Certifications
+
+- Arduino Certification (Electronics and Physical Computing)
+- EBOX-I2 STEAM Program (Leadership Development)
+- AgriSTEAM Program (IICA)
+- 3D Printing Workshop (Universidad LCI VERITAS)
+
+## 🌐 Languages
+
+- Spanish (Native)
+- English (Intermediate, TOEIC preparation in progress)
+
+## 📫 Contact Me
+
+- Email: salpizar207@gmail.com
+- Phone: +506 7190 3969
+- Location: Desamparados, San José, Costa Rica
+
+## 🤝 References
+
+Available upon request from CTP Don Bosco faculty members.
+
+---
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-blue?style=flat-square&logo=github)](https://github.com/yourusername)  
+*"Turning ideas into reality through electronics and programming."*
